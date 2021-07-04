@@ -15,6 +15,7 @@ Features:
 
 Tech Stack:
 - GatsbyJs
+- Github Action
 
 Credits
 - Original Landing Page Template (https://freehtml5.co/)
